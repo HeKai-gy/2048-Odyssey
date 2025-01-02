@@ -1,7 +1,7 @@
 # 2048-Odyssey
 
-[![Build Status](https://img.shields.io/badge/build-In%20Progress-red)](可选，构建状态)
-[![License](https://img.shields.io/badge/license-MIT-blue)](许可证)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+[![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
 
 一个基于Python的2048游戏实现。
@@ -40,7 +40,7 @@ git clone [https://github.com/HeKai-gy/2048-Odyssey.git](https://github.com/HeKa
 cd 2048-Odyssey
 python 2048-Odyssey.py
 ```
-
+![Example](https://github.com/HeKai-gy/2048-Odyssey/blob/348bf3712708479898eeb1f543a3dc6f8ade9711/example.png "Example")
 ## 贡献（Contributing）
 欢迎贡献！  
 如果你在使用项目的过程中遇到了问题，请通过[GitHub Issue](https://github.com/HeKai-gy/2048-Odyssey/issues)提交一个详细的Bug报告。  
@@ -48,7 +48,7 @@ python 2048-Odyssey.py
 (Contributions are welcome! Please refer to the Contributing Guidelines.)
 
 ## 许可证 (License)
-本项目使用MIT许可证。(This project is licensed under the MIT License.)
+本项目使用MIT许可证[LICENSE](LICENSE)。(This project is licensed under the MIT License.)
 
 ## 联系方式 (Contact)
 如果有任何问题或建议，可以通过以下方式联系我：  
