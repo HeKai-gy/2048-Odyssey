@@ -11,7 +11,7 @@
 2. **创建问题**：如果未找到相似问题，请创建一个新的问题，并提供详细的描述和复现步骤。
 
 ## 提交功能请求
-如果你有新的想法或功能请求，也可以通过[GitHub Issue](https://github.com/your-username/pythonx/issues)提交。
+如果你有新的想法或功能请求，也可以通过[GitHub Issue](https://github.com/HeKai-gy/2048-Odyssey/issues)提交。
 
 ## 代码审查 (Code Review)
 提交的代码将经过审查过程。请耐心等待其他贡献者的反馈，并准备好对您的代码进行讨论和修改。
