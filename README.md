@@ -34,7 +34,7 @@
 ```
 git clone [https://github.com/HeKai-gy/2048-Odyssey.git](https://github.com/HeKai-gy/2048-Odyssey.git)
 cd 2048-Odyssey
-python setup.py install
+python 2048-Odyssey.py
 ```
 ## 使用方法（usage）
 提供基本的使用示例。(Provide basic usage examples.)
