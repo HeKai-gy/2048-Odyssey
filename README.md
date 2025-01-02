@@ -30,15 +30,10 @@
 
 ## 安装 (Installation)
 
-使用pip安装：(Installation using pip:)
-
-```bash
-pip install your-package-name
+从源代码安装：(Or install from source:)
 ```
-或者从源代码安装：(Or install from source:)
-```
-git clone [https://github.com/your-username/your-repo.git](https://github.com/your-username/your-repo.git)
-cd your-repo
+git clone [https://github.com/HeKai-gy/2048-Odyssey.git](https://github.com/HeKai-gy/2048-Odyssey.git)
+cd 2048-Odyssey
 python setup.py install
 ```
 ## 使用方法（usage）
