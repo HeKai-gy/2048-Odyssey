@@ -40,7 +40,7 @@ git clone [https://github.com/HeKai-gy/2048-Odyssey.git](https://github.com/HeKa
 cd 2048-Odyssey
 python 2048-Odyssey.py
 ```
-![Example](https://github.com/HeKai-gy/2048-Odyssey/blob/348bf3712708479898eeb1f543a3dc6f8ade9711/example.png "Example")
+![Example](example.png "Example")
 ## 贡献（Contributing）
 欢迎贡献！  
 如果你在使用项目的过程中遇到了问题，请通过[GitHub Issue](https://github.com/HeKai-gy/2048-Odyssey/issues)提交一个详细的Bug报告。  
