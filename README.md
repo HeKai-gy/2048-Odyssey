@@ -33,37 +33,23 @@
 从源代码安装：(Or install from source:)
 ```
 git clone [https://github.com/HeKai-gy/2048-Odyssey.git](https://github.com/HeKai-gy/2048-Odyssey.git)
-cd 2048-Odyssey
-python 2048-Odyssey.py
 ```
 ## 使用方法（usage）
 提供基本的使用示例。(Provide basic usage examples.)
 ```
-import your_package
-
-# 示例代码 (Example code)
-result = your_package.some_function(arguments)
-print(result)
+cd 2048-Odyssey
+python 2048-Odyssey.py
 ```
-更详细的用法请参考完整文档 (Link to more detailed documentation if available)
-
-    
-插入网络图片命令：
-
-![Markdown Logo](https://markdown-here.com/img/icon256.png "Markdown Logo")
-
-插入本地图片命令：
-
-    假设你的Markdown文件是README.md，图片是路径是：images/logo.png，则在README.md中插入图片的语法应为：
-
-    ![Logo](images/logo.png "公司Logo")
-
 
 ## 贡献（Contributing）
-欢迎贡献代码！请参考贡献指南。(Contributions are welcome! Please refer to the Contributing Guidelines.)
+欢迎贡献！  
+如果你在使用项目的过程中遇到了问题，请通过[GitHub Issue](https://github.com/HeKai-gy/2048-Odyssey/issues)提交一个详细的Bug报告。  
+更详细的贡献指南请查看[CONTRIBUTING.md](CONTRIBUTING.md)。
+(Contributions are welcome! Please refer to the Contributing Guidelines.)
 
 ## 许可证 (License)
 本项目使用MIT许可证。(This project is licensed under the MIT License.)
 
 ## 联系方式 (Contact)
-GitHub HeKai-gy。
+如果有任何问题或建议，可以通过以下方式联系我：  
+GitHub:[@HeKai-gy](https://github.com/HeKai-gy)
