@@ -1,6 +1,6 @@
 # 2048-Odyssey
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](可选，构建状态)
+[![Build Status](https://img.shields.io/badge/build-In%20Progress-red)](可选，构建状态)
 [![License](https://img.shields.io/badge/license-MIT-blue)](许可证)
 
 
